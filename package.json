@@ -86,7 +86,7 @@
     "@gnosis.pm/safe-apps-provider": "^0.14.0",
     "@gnosis.pm/safe-apps-sdk": "^7.8.0",
     "@keplr-wallet/cosmos": "^0.9.9",
-    "@keplr-wallet/types": "^0.10.13",
+    "@keplr-wallet/types": "^0.12.153",
     "@metamask/providers": "^8.1.1",
     "@solana/spl-name-service": "^0.1.4",
     "@solana/wallet-adapter-base": "^0.9.9",
