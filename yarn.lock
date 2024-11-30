@@ -2362,16 +2362,12 @@
     elliptic "^6.5.3"
     sha.js "^2.4.11"
 
-"@keplr-wallet/types@^0.10.13":
-  version "0.10.13"
-  resolved "https://registry.yarnpkg.com/@keplr-wallet/types/-/types-0.10.13.tgz#1c2e64cdcd0ef51e5168375b77a739366c406034"
-  integrity sha512-15dLe1oGQjY1nLGQeJERrKawMqPcU6QAY+9eglI2TNi6KGpmpH1PsDb+UIQNCehBTvYfKQl+vdFwHh3Eyw5VWA==
+"@keplr-wallet/types@^0.12.153":
+  version "0.12.157"
+  resolved "https://registry.yarnpkg.com/@keplr-wallet/types/-/types-0.12.157.tgz#5aa15c09c5e18ab3a1381839368a6725c4037818"
+  integrity sha512-CWRg6AK2x7sXZ0rhr9NSL8z9sIdnNHgrce3nyOBAJkXJ9XtrrJoOtopnkFaQmFOanysMHUrKMCbZFiaYrBmqew==
   dependencies:
-    "@cosmjs/launchpad" "^0.24.0-alpha.25"
-    "@cosmjs/proto-signing" "^0.24.0-alpha.25"
-    axios "^0.21.4"
     long "^4.0.0"
-    secretjs "^0.17.0"
 
 "@keplr-wallet/types@^0.9.12":
   version "0.9.12"
