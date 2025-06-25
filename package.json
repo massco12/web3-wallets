@@ -79,14 +79,14 @@
     "react": "^18.1.0"
   },
   "dependencies": {
-    "@coinbase/wallet-sdk": "^3.3.0",
-    "@cosmjs/launchpad": "0.24.1",
-    "@cosmjs/stargate": "^0.27.0",
+    "@coinbase/wallet-sdk": "^3.6.4",
+    "@cosmjs/launchpad": "0.25.3",
+    "@cosmjs/stargate": "^0.28.0",
     "@ethersproject/providers": "^5.6.8",
     "@gnosis.pm/safe-apps-provider": "^0.14.0",
     "@gnosis.pm/safe-apps-sdk": "^7.8.0",
-    "@keplr-wallet/cosmos": "^0.9.9",
-    "@keplr-wallet/types": "^0.10.13",
+    "@keplr-wallet/cosmos": "^0.11.32",
+    "@keplr-wallet/types": "^0.11.32",
     "@metamask/providers": "^8.1.1",
     "@solana/spl-name-service": "^0.1.4",
     "@solana/wallet-adapter-base": "^0.9.9",
@@ -102,7 +102,7 @@
     "ismobilejs": "^1.1.1",
     "long": "^5.2.0",
     "rango-sdk": "^0.0.5",
-    "web3": "^1.10.0"
+    "web3": "^1.10.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.1",
