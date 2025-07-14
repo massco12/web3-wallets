@@ -81,7 +81,7 @@
   "dependencies": {
     "@coinbase/wallet-sdk": "^3.3.0",
     "@cosmjs/launchpad": "0.24.1",
-    "@cosmjs/stargate": "^0.27.0",
+    "@cosmjs/stargate": "^0.34.0",
     "@ethersproject/providers": "^5.6.8",
     "@gnosis.pm/safe-apps-provider": "^0.14.0",
     "@gnosis.pm/safe-apps-sdk": "^7.8.0",
@@ -96,12 +96,12 @@
     "@tanstack/react-query": "^4.24.10",
     "@tanstack/react-query-persist-client": "^4.24.10",
     "@uniswap/permit2-sdk": "^1.2.0",
-    "@walletconnect/web3-provider": "^1.7.8",
+    "@walletconnect/web3-provider": "^1.8.0",
     "abitype": "^0.1.7",
     "ethers": "5.7.2",
     "ismobilejs": "^1.1.1",
     "long": "^5.2.0",
-    "rango-sdk": "^0.0.5",
+    "rango-sdk": "^0.0.10",
     "web3": "^1.10.0"
   },
   "devDependencies": {
